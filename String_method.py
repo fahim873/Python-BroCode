@@ -1,6 +1,6 @@
 
-# name = input("Enter your full name: ")
-# phone = input("Enter your phone number: ")
+name = input("Enter your full name: ")
+phone = input("Enter your phone number: ")
 
 
 # result = len(name)
